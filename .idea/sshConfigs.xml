@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="3.143.113.77" id="0e2fb2b3-d245-4999-a93c-eb3a418ca6b1" keyPath="C:\Users\shizuku.i\Desktop\docker_ec2.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig host="3.16.30.228" id="0e2fb2b3-d245-4999-a93c-eb3a418ca6b1" keyPath="C:\Users\shizuku.i\Desktop\鍵\docker_ec2.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
     </configs>
   </component>
 </project>
